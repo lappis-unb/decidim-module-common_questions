@@ -1,0 +1,6 @@
+---
+en:
+  decidim:
+    components:
+      common_questions:
+        name: CommonQuestions
